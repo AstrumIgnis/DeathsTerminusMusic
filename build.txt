@@ -1,0 +1,3 @@
+displayName = Death's Terminus Music
+author = Astrum Genesis
+version = 0.1

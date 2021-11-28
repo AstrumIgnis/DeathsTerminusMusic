@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nico/Library/Application Support/Terraria/ModLoader/Mod Sources/DeathsTerminusMusic/DeathsTerminusMusic.csproj": {}
+  },
+  "projects": {
+    "/Users/nico/Library/Application Support/Terraria/ModLoader/Mod Sources/DeathsTerminusMusic/DeathsTerminusMusic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nico/Library/Application Support/Terraria/ModLoader/Mod Sources/DeathsTerminusMusic/DeathsTerminusMusic.csproj",
+        "projectName": "DeathsTerminusMusic",
+        "projectPath": "/Users/nico/Library/Application Support/Terraria/ModLoader/Mod Sources/DeathsTerminusMusic/DeathsTerminusMusic.csproj",
+        "packagesPath": "/Users/nico/.nuget/packages/",
+        "outputPath": "/Users/nico/Library/Application Support/Terraria/ModLoader/Mod Sources/DeathsTerminusMusic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nico/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
